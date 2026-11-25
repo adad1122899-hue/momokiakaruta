@@ -1,1 +1,1 @@
-{"name":"ラジオかるた記録帳","short_name":"ラジオかるた","start_url":"./","display":"standalone","background_color":"#fff8fb","theme_color":"#a84e70","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{"name": "ラジオかるた記録帳", "short_name": "ラジオかるた", "start_url": "./", "display": "standalone", "background_color": "#fff8fb", "theme_color": "#a84e70", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
